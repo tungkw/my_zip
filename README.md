@@ -1,4 +1,4 @@
-- [1.TokRZ](#1)
+- [TokRZ](#1)
     - [input](#1.1)
         - [read_nova](#1.1.1)
             - [interp1d3l](#1.1.1.1)
@@ -47,7 +47,7 @@
             - [Efield](1.7.1.4)
         - [bndry8_x_ex](1.7.2)
 
-<span id="1"> </span>
+<h2 id="1"> TokRZ</h2>
 # TokRZ
 ## input
 ### read_nova
