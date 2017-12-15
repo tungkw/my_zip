@@ -47,9 +47,7 @@
             - [Efield](1.7.1.4)
         - [bndry8_x_ex](1.7.2)
 
-<h2 id="1"> TokRZ</h2>
-
-[TOC]
+<h2 id="1"> </h2>
 # TokRZ
 ## input
 ### read_nova
